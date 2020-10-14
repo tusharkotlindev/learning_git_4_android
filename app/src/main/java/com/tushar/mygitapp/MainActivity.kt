@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Added new feature")
-        println("Experimental commit")
+        println("Change 2")
     }
 }
