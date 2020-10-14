@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Added new feature")
-        println("Change 2")
+        println("Change 3")
         println("THis line will be merged")
     }
 }
