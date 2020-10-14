@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("Added new feature")
         println("Change 2")
+        println("THis line will be merged")
     }
 }
